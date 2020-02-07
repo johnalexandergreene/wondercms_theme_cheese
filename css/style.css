@@ -12,14 +12,14 @@ body {
 }
 
 .whiteFont {color: #fff;}
-.padding20 {padding: 2px;}
-.padding40 {padding: 4px;}
+.padding20 {padding: 1px;}
+.padding40 {padding: 1px;}
 .blueBackground {background-color: #1ab;}
 
 .navbar-default .navbar-toggle {border-color: #888;}
 
 .navbar li {
-	font-size: 13px;
+	font-size: 14px;
 	text-transform: uppercase;
 }
 
@@ -37,6 +37,6 @@ ul.nav.navbar-nav.navbar-right li a:hover, ul.nav.navbar-nav.navbar-right li.act
 footer {
 	bottom: 0;
 	width: 100%;
-	font-size: 13px;
+	font-size: 14px;
 	position: absolute;
 }
