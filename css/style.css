@@ -19,7 +19,7 @@ body {
 .navbar-default .navbar-toggle {border-color: #888;}
 
 .navbar li {
-	font-size: 14px;
+	font-size: 18px;
 	text-transform: uppercase;
 }
 
@@ -30,7 +30,7 @@ body {
 
 ul.nav.navbar-nav.navbar-right li a:hover, ul.nav.navbar-nav.navbar-right li.active a {
 	color: #1ab;
-	background: #fa0;
+	background: #ffd15d;
 	/*border-bottom: 1px solid #1ab;*/
 }
 
