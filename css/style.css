@@ -7,13 +7,13 @@ html {
 body {
 	color: #555;
 	background: #eee;
-	margin-bottom: 60px;
+	margin-bottom: 0px;
 	font-family: "Lucida Sans Unicode", Verdana;
 }
 
 .whiteFont {color: #fff;}
-.padding20 {padding: 1px;}
-.padding40 {padding: 1px;}
+.padding20 {padding: 0px;}
+.padding40 {padding: 0px;}
 .blueBackground {background-color: #1ab;}
 
 .navbar-default .navbar-toggle {border-color: #888;}
