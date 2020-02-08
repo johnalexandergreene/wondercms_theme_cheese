@@ -1,26 +1,35 @@
 html {
 	min-height: 100%;
 	position: relative;
-	box-shadow: 0 0 100px rgba(0, 0, 0, 0.27) inset;
+	/*box-shadow: 0 0 100px rgba(0, 0, 0, 0.27) inset;*/
 }
 
 body {
 	color: #555;
 	background: #eee;
-	margin-bottom: 0px;
-	font-family: "Lucida Sans Unicode", Verdana;
+	margin-bottom: 32px;
+	font-family: Arial, Helvetica, sans-serif;
 }
 
 .whiteFont {color: #fff;}
 .padding20 {padding: 5px;}
 .padding40 {padding: 5px;}
-.blueBackground {background-color: #1ab;}
+.blueBackground {background-color: #eee;}
 
-.navbar-default .navbar-toggle {border-color: #888;}
+.navbar-brand{
+  font-weight: bold;
+  font-size: 22px;}
+
+.navbar-default .navbar-toggle {
+/*  font-family: "Lucida Sans Unicode", Verdana;*/
+  border-color: #888;
+  /*border-style: solid;
+  border-width: 5px;*/ }
 
 .navbar li {
-	font-size: 18px;
-	text-transform: uppercase;
+	font-size: 20px;
+	/*font-weight: bold;*/
+	/*text-transform: uppercase;*/
 }
 
 .navbar, .navbar-collapse {
@@ -29,8 +38,8 @@ body {
 }
 
 ul.nav.navbar-nav.navbar-right li a:hover, ul.nav.navbar-nav.navbar-right li.active a {
-	color: #1ab;
-	background: #ffd15d;
+	color: #fff;
+	background: #60d460;
 	/*border-bottom: 1px solid #1ab;*/
 }
 
