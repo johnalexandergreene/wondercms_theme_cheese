@@ -13,20 +13,24 @@ body {
 
 a:link {
   color: #555;
+  font-weight: bold;
   text-decoration: underline;
 }
 a:visited {
   color: #555;
+  font-weight: bold;
   text-decoration: underline;
 }
 a:hover {
-  color: #555;
+  color: #fff;
+  font-weight: bold;
   text-decoration: none;
   background: #60d460;
   
 }
 a:active {
-  color: #555;
+  color: #fff;
+  font-weight: bold;
   text-decoration: none;
   background: #60d460;
 }
