@@ -12,20 +12,23 @@ body {
 }
 
 a:link {
-  color: #60d460;
-  text-decoration: none;
+  color: #555;
+  text-decoration: underline;
 }
 a:visited {
-  color: #60d460;
-  text-decoration: none;
+  color: #555;
+  text-decoration: underline;
 }
 a:hover {
-  color: #60d460;
-  text-decoration: underline;
+  color: #555;
+  text-decoration: none;
+  background: #60d460;
+  
 }
 a:active {
-  color: #60d460;
-  text-decoration: underline;
+  color: #555;
+  text-decoration: none;
+  background: #60d460;
 }
 
 .whiteFont {color: #fff;}
