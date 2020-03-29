@@ -11,6 +11,19 @@ body {
 	font-family: Arial, Helvetica, sans-serif;
 }
 
+a:link {
+  color: #fa0;
+}
+a:visited {
+  color: #fa0;
+}
+a:hover {
+  color: #aaf;
+}
+a:active {
+  color: #aaf;
+}
+
 .whiteFont {color: #fff;}
 .padding20 {padding: 5px;}
 .padding40 {padding: 5px;}
