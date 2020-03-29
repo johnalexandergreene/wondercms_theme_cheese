@@ -12,16 +12,20 @@ body {
 }
 
 a:link {
-  color: #fa0;
+  color: #f99b46;
+  text-decoration: none;
 }
 a:visited {
-  color: #fa0;
+  color: #f99b46;
+  text-decoration: none;
 }
 a:hover {
-  color: #aaf;
+  color: #63b6e7;
+  text-decoration: none;
 }
 a:active {
-  color: #aaf;
+  color: #63b6e7;
+  text-decoration: none;
 }
 
 .whiteFont {color: #fff;}
