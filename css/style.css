@@ -13,24 +13,20 @@ body {
 
 a:link {
   color: #555;
-  font-weight: bold;
   text-decoration: underline;
 }
 a:visited {
   color: #555;
-  font-weight: bold;
   text-decoration: underline;
 }
 a:hover {
   color: #fff;
-  font-weight: bold;
   text-decoration: none;
   background: #60d460;
   
 }
 a:active {
   color: #fff;
-  font-weight: bold;
   text-decoration: none;
   background: #60d460;
 }
@@ -64,6 +60,7 @@ a:active {
 ul.nav.navbar-nav.navbar-right li a:hover, ul.nav.navbar-nav.navbar-right li.active a {
 	color: #fff;
 	background: #60d460;
+	text-decoration: none;
 	/*border-bottom: 1px solid #1ab;*/
 }
 
