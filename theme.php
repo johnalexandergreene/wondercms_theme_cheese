@@ -53,6 +53,8 @@
             </div>
         </div>
 
+	<!--    
+	    
         <div class="container-fluid blueBackground whiteFont">
             <div class="row">
                 <div class="col-lg-12 text-center padding40">
@@ -61,6 +63,8 @@
                 </div>
             </div>
         </div>
+
+        -->
 
         <footer class="container-fluid">
             <div class="text-right padding20">
